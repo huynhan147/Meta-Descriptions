@@ -12,11 +12,11 @@ Tôi có thể nói với bạn rằng, trên toàn bộ tập dữ liệu, đ�
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-1-4065.png)
 
-Marine Corps Community Services có thể là một tổ chức tuyệt vờ,  nhưng tôi xin lỗi rằng thông báo cho thấy meta description của họ thực tế là "apple" (mà tôi nghĩ chính Google thêm đoạn đó vào). Dưới đây là một đoạn trích cho tìm kiếm cửa hàng "Younkers":
+Marine Corps Community Services có thể là một tổ chức tuyệt vời,  nhưng tôi xin lỗi rằng thông báo cho thấy meta description của họ thực tế là "apple" (mà tôi nghĩ chính Google thêm đoạn đó vào). Dưới đây là một đoạn trích cho tìm kiếm cửa hàng "Younkers":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-2-4999.png)
 
-Đặt sang một bên sự nhầm lẫn đa thương hiệu nghiêm trọng của họ, Tôi nghĩ tất cả chúng ta đều có thể đồng ý rằng "BER Meta TAG1" không tối ưu. Nếu những trường hợp này dạy cho bạn bất cứ điều gì, nó chỉ là về những gì không làm. Điều gì xảy ra với trường hợp ngược lại? Đây là đoạn trích có 386 ký tự, từ tìm kiếm "non-compete agreement":
+Đặt sang một bên sự nhầm lẫn đa thương hiệu nghiêm trọng của họ, Tôi nghĩ tất cả chúng ta đều có thể đồng ý rằng "BER Meta TAG1" không tối ưu. Nếu những trường hợp này dạy cho bạn bất cứ điều gì, thì nó đã chỉ cho ta biết về những gì không nên làm. Điều gì xảy ra với trường hợp ngược lại? Đây là đoạn trích có 386 ký tự, từ tìm kiếm "non-compete agreement":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-3-12620.png)
 
@@ -25,15 +25,15 @@ Lưu ý cụm từ "Jump to Exceptions" và các liên kết ở đầu. Những
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-4-11379.png)
 
 Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn trích này đều đến từ Wikipedia, ngoại trừ nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp rìa không? Nhìn vào giá trị trung bình (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.
-## The big picture, part 1
+## Bức tranh tổng quan, phần 1 
 
 Đôi khi, bạn phải để dữ liệu cố gắng tự nói cho chính mình, với tối thiểu là coaxing. Hãy xem xét tất cả các đoạn trích đã được cắt bỏ (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước đây rằng các đoạn trích này ngắn hơn một chút). Điều này cho ta 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu của chúng tôi). Dưới đây là đồ thị của tất cả các độ dài cắt, được thu thập thành 25 nhóm ký tự (0-25, 26-50, v.v.):
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-5-4779.png)
 
-Điều này có vẻ rất khác với dữ liệu của chúng tôi [vào tháng 12](https://moz.com/blog/how-long-should-your-meta-description-be-2018), và được phân cụm rõ ràng trong phạm vi ký tự 150-175. Chúng tôi thấy một vài đoạn trích hiển thị của Google bị cắt sau phạm vi 300+, nhưng những đoạn mã này bị thu hẹp bởi các lần cắt ngắn hơn. 35
+Điều này có vẻ rất khác với dữ liệu của chúng tôi [vào tháng 12](https://moz.com/blog/how-long-should-your-meta-description-be-2018), và được phân cụm rõ ràng trong phạm vi ký tự 150-175. Chúng tôi thấy một vài đoạn trích hiển thị của Google bị cắt sau phạm vi 300+, nhưng những đoạn mã này bị thu hẹp bởi các lần cắt ngắn hơn.
 
-## The big picture, part 2
+## Bức tranh tổng quan, phần 2
 
 Rõ ràng, có rất nhiều điều xảy ra trong phạm vi 125-175 ký tự đó, vì vậy, hãy phóng to và nhìn vào phần giữa của phân bố tần suất, chia thành các nhóm nhỏ hơn gồm 5 ký tự:
 
@@ -57,7 +57,7 @@ Bạn chỉ có thể viết với độ dài mà bạn nghĩ là lý tưởng c
 
 ### (3) Cắt tất cả mọi thứ ở 155 ký tự
 
-Bạn có thể quay trở lại và hack tất cả công việc khó khăn của bạn trở lại 155 ký tự. Tôi nghĩ rằng điều này thường sẽ mất nhiều thời gian và có thể dẫn đến các đoạn tìm kiếm thậm chí tệ hơn nữa. Nếu bạn muốn viết lại Meta Descriptions ngắn hơn cho các trang quan trọng của bạn, điều đó hoàn toàn hợp lý, nhưng hãy nhớ rằng một vài kết quả vẫn hiển đoạn trích dài hơn và tình trạng này sẽ tiếp tục tăng lên.
+Bạn có thể quay lại và mạnh dạn hack (sửa đổi) tất cả bài viết của bạn trở lại 155 ký tự. Tôi nghĩ rằng điều này thường sẽ mất nhiều thời gian và có thể dẫn đến các đoạn tìm kiếm thậm chí tệ hơn nữa. Nếu bạn muốn viết lại Meta Descriptions ngắn hơn cho các trang quan trọng của bạn, điều đó hoàn toàn hợp lý, nhưng hãy nhớ rằng một vài kết quả vẫn hiển đoạn trích dài hơn và tình trạng này sẽ tiếp tục tăng lên.
 
 ### (4) Write length-adaptive descriptions
 
@@ -79,12 +79,12 @@ Vào tháng 12, chúng tôi đã thông báo rằng Google đã tăng đoạn tr
 
 Theo nghiên cứu mới của chúng tôi (tháng 5 năm 2018), giới hạn này là 155-160 ký tự. SEO nên thích ứng với những thay đổi này như thế nào?  
 
-Dòng 1 có phiên bản ngắn của câu chuyện và hy vọng người tìm kiếm biết rằng họ đang đi đúng hướng. Dòng 2 đi sâu vào một vài chi tiết và cho đi đủ dữ liệu (hy vọng) là hấp dẫn. Nếu Google sử dụng đủ dài mô tả, nó sẽ hoạt động tốt, nhưng nếu không,  chúng ta không nên tệ hơn khi mặc.
+Dòng 1 có phiên bản ngắn của câu chuyện và hy vọng người tìm kiếm biết rằng họ đang đi đúng hướng. Dòng 2 đi sâu vào một vài chi tiết và cho đi đủ dữ liệu (hy vọng) là hấp dẫn. Nếu Google sử dụng mô tả đủ dài, nó sẽ hoạt động tốt, nhưng nếu không,  chúng ta không nên để điều đó ảnh hưởng đến trang chúng ta.
 
 ## Bạn có nên bận tâm không?
 
 Đây có phải là nỗ lực đáng giá không? Tôi nghĩ rằng việc viết các mô tả hiệu quả thu hút khách truy cập tìm kiếm vẫn rất quan trọng, theo lý thuyết (và điều này ảnh hưởng gián tiếp đến cả xếp hạng), nhưng bạn có thể thấy bạn có thể viết hoàn toàn tốt trong giới hạn 155 ký tự. Chúng ta cũng phải đối mặt với thực tế rằng Google dường như đang viết lại các mô tả ngày càng nhiều. Điều này rất khó để đo lường, vì nhiều lần viết lại là một phần, nhưng không đảm bảo rằng meta description của bạn sẽ được sử dụng như được viết.
 
-Có cách nào để biết khi nào một đoạn trích dài hơn (&gt;300 ký tự) vẫn sẽ được sử dụng? Một số SEO đã đưa ra giả thuyết một liên kết giữa các đoạn mã dài hơn và các đoạn trích nổi bật ở đầu trang. Trong tập dữ liệu tổng thể của chúng tôi, 13,3% trong tổng số SERP có đoạn trích nổi bật. Nếu chúng ta chỉ xem SERP có độ dài đoạn trích hiển thị tối đa là 160 ký tự (nghĩa là không có kết quả nào dài hơn 160 ký tự), thì đoạn mã nổi bật xuất hiện là 11,4%. Nếu chúng ta xem SERP với ít nhất một đoạn trích hiển thị trên 300 ký tự, các đoạn trích nổi bật xảy ra với tỷ lệ 41,8%. Trong khi tập dữ liệu thứ hai là khá nhỏ, nó là một sự khác biệt nổi bật. Dường như có một số kết nối giữa khả năng trích xuất câu trả lời của tôi dưới dạng đoạn trích nổi bật và khả năng hoặc sự sẵn sàng của họ để hiển thị các đoạn trích tìm kiếm dài hơn. Tuy nhiên, trong nhiều trường hợp, các đoạn trích dài hơn này được viết lại hoặc được lấy trực tiếp từ trang, vì vậy ngay cả khi đó, không có gì đảm bảo rằng Google sẽ sử dụng meta description dài hơn của bạn.
+Có cách nào để biết khi nào một đoạn trích dài hơn (&gt;300 ký tự) vẫn sẽ được sử dụng? Một số SEO đã đưa ra giả thuyết một liên kết giữa các đoạn mã dài hơn và các đoạn trích nổi bật ở đầu trang. Trong tập dữ liệu tổng thể của chúng tôi, 13,3% trong tổng số SERP có đoạn trích nổi bật. Nếu chúng ta chỉ xem SERP có độ dài đoạn trích hiển thị tối đa là 160 ký tự (nghĩa là không có kết quả nào dài hơn 160 ký tự), thì đoạn mã nổi bật xuất hiện là 11,4%. Nếu chúng ta xem SERP với ít nhất một đoạn trích hiển thị trên 300 ký tự, các đoạn trích nổi bật xảy ra với tỷ lệ 41,8%. Trong khi tập dữ liệu thứ hai là khá nhỏ, nó là một sự khác biệt nổi bật. Dường như có một sự liên quan giữa khả năng trích xuất câu trả lời của tôi dưới dạng đoạn trích nổi bật và khả năng hoặc sự sẵn sàng của họ để hiển thị các đoạn trích tìm kiếm dài hơn. Tuy nhiên, trong nhiều trường hợp, các đoạn trích dài hơn này được viết lại hoặc được lấy trực tiếp từ trang, vì vậy ngay cả khi đó, không có gì đảm bảo rằng Google sẽ sử dụng meta description dài hơn của bạn.
 
 Hiện tại, có vẻ như hướng dẫn với 155 ký tự được quay trở lại. Nếu bạn đã tăng một số meta desciption của bạn, tôi không nghĩ có lý do gì để hoảng loạn.  Nó có thể có ý nghĩa để viết lại các mô tả quá dài trên các trang quan trọng, đặc biệt nếu các phần cắt giảm dẫn đến kết quả xấu. Nếu bạn chọn viết lại một số trong số chúng, hãy xem xét cách tiếp cận 150/150 - ít nhất thì bạn sẽ được kiểm chứng một chút trong tương lai.
