@@ -1,7 +1,6 @@
-## Làm thế nào để viết Meta Descriptions trong một thế giới thay đổi liên tục (AKA Google
-Giveth, Google Taketh&amp;nbspAway;)
+## Làm thế nào để viết Meta Descriptions trong một thế giới thay đổi liên tục (AKA Google Giveth, Google Taketh Away;)
 
-**Tóm tắt:** Vào giữa tháng 5 năm 2018, Google đã phục hồi về kiểu đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này phổ biến và hầu hết các meta description đang bị cắt bỏ trong phạm vi trước đó khoảng 155-160 ký tự.
+**Tóm tắt:** Vào giữa tháng 5 năm 2018, Google đã phục hồi về kiểu đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này phổ biến và hầu hết các môt meta đang bị cắt bỏ trong phạm vi trước đó khoảng 155-160 ký tự.
 
 Trở lại tháng 12, Google đã thực hiện một thay đổi đáng kể trong cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi cho thấy nhiều đoạn trích hơn 300 ký tự. Cuối tuần qua, họ dường như đã quay trở lại thay đổi đó (Danny Sullivan [một phần đã xác nhận điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 5). Bên cạnh câu hỏi hiển nhiên - Giới hạn mới là gì? - nó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê, nhưng tôi sẽ cố gắng trả lời cả hai câu hỏi dựa trên những gì chúng ta biết ngày nay
 ## Lies, dirty lies, and statistics...
@@ -12,7 +11,7 @@ Tôi có thể nói với bạn rằng, trên toàn bộ tập dữ liệu, đ�
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-1-4065.png)
 
-Marine Corps Community Services có thể là một tổ chức tuyệt vờ,  nhưng tôi xin lỗi rằng thông báo cho thấy meta description của họ thực tế là "apple" (mà tôi nghĩ chính Google thêm đoạn đó vào). Dưới đây là một đoạn trích cho tìm kiếm cửa hàng "Younkers":
+Marine Corps Community Services có thể là một tổ chức tuyệt vời,  nhưng tôi xin lỗi rằng thông báo cho thấy meta description của họ thực tế là "apple" (mà tôi nghĩ chính Google thêm đoạn đó vào). Dưới đây là một đoạn trích cho tìm kiếm cửa hàng "Younkers":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-2-4999.png)
 
@@ -24,14 +23,14 @@ Lưu ý cụm từ "Jump to Exceptions" và các liên kết ở đầu. Những
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-4-11379.png)
 
-Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn trích này đều đến từ Wikipedia, ngoại trừ nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp rìa không? Nhìn vào giá trị trung bình (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.
+Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn trích này đều đến từ Wikipedia, đây là ngoại lệ với nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp bên ngoài không? Nhìn vào giá trị trung bình (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.
 ## The big picture, part 1
 
 Đôi khi, bạn phải để dữ liệu cố gắng tự nói cho chính mình, với tối thiểu là coaxing. Hãy xem xét tất cả các đoạn trích đã được cắt bỏ (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước đây rằng các đoạn trích này ngắn hơn một chút). Điều này cho ta 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu của chúng tôi). Dưới đây là đồ thị của tất cả các độ dài cắt, được thu thập thành 25 nhóm ký tự (0-25, 26-50, v.v.):
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-5-4779.png)
 
-Điều này có vẻ rất khác với dữ liệu của chúng tôi [vào tháng 12](https://moz.com/blog/how-long-should-your-meta-description-be-2018), và được phân cụm rõ ràng trong phạm vi ký tự 150-175. Chúng tôi thấy một vài đoạn trích hiển thị của Google bị cắt sau phạm vi 300+, nhưng những đoạn mã này bị thu hẹp bởi các lần cắt ngắn hơn. 35
+Điều này có vẻ rất khác với dữ liệu của chúng tôi [vào tháng 12](https://moz.com/blog/how-long-should-your-meta-description-be-2018), và được phân cụm rõ ràng trong phạm vi ký tự 150-175. Chúng tôi thấy một vài đoạn trích hiển thị của Google bị cắt sau phạm vi 300+, nhưng những đoạn mã này bị thu hẹp bởi các lần cắt ngắn hơn.
 
 ## The big picture, part 2
 
@@ -51,15 +50,15 @@ Chúng ta có nên quay trở lại với việc cắt giảm 155 ký tự khôn
 
 Một số trang web không có meta descriptions. Wikipedia là một trong số chúng. Bây giờ, sự hiểu biết của Google về nội dung của Wikipedia sâu sắc hơn nhiều so với hầu hết các trang web (một phần, nhờ Wikidata), nhưng nhiều trang web làm tốt mà không có thẻ. Nếu lựa chọn của bạn là viết thẻ không hợp lệ, lặp lại hoặc để trống, thì tôi sẽ nói để trống chúng và để Google sắp xếp.
 
-### (2) Let the ... fall where it may
+### (2) Let the ... fall where it may (Hãy để ... rơi nơi có thể)
 
-Bạn chỉ có thể viết với độ dài mà bạn nghĩ là lý tưởng cho bất kỳ trang nào (trong suy luận) và nếu đoạn trích bị cắt, đừng lo lắng về nó. Có thể dấu ba châm (...) được thêm vào sau. Tôi đang nói đùa một nửa, nhưng thực tế là việc cắt giảm không phải là nụ hôn của thần chết. Một mô tả hay nên lôi kéo mọi người muốn đọc thêm.
+Bạn chỉ có thể viết với độ dài mà bạn nghĩ là lý tưởng cho bất kỳ trang nào (trong suy luận) và nếu đoạn trích bị cắt, đừng lo lắng về nó. Có thể dấu ba chấm (...) được thêm vào sau. Tôi đang nói đùa một nửa, nhưng thực tế là việc cắt giảm không phải là nụ hôn của thần chết. Một mô tả hay nên lôi kéo mọi người muốn đọc thêm.
 
 ### (3) Cắt tất cả mọi thứ ở 155 ký tự
 
 Bạn có thể quay trở lại và hack tất cả công việc khó khăn của bạn trở lại 155 ký tự. Tôi nghĩ rằng điều này thường sẽ mất nhiều thời gian và có thể dẫn đến các đoạn tìm kiếm thậm chí tệ hơn nữa. Nếu bạn muốn viết lại Meta Descriptions ngắn hơn cho các trang quan trọng của bạn, điều đó hoàn toàn hợp lý, nhưng hãy nhớ rằng một vài kết quả vẫn hiển đoạn trích dài hơn và tình trạng này sẽ tiếp tục tăng lên.
 
-### (4) Write length-adaptive descriptions
+### (4) Write length-adaptive descriptions (Viết mô tả với độ dài thích ứng)
 
 Có thể viết mô tả hoạt động tốt ở cả hai độ dài không? Tôi nghĩ rằng có thể, với một số sự quan tâm và lập kế hoạch. Tôi sẽ không nhất thiết phải đề xuất điều này cho mọi trang, nhưng có lẽ có cách để ăn bánh và ăn ít nhất một nửa, too...
 
